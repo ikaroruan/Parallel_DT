@@ -1,0 +1,15 @@
+Sequential/*.a
+Cpp_threads/*.a
+OpenMP/*.a
+Sequential/triangulate
+Cpp_threads/triangulate
+OpenMP/triangulate
+Sequential/CMakeCache.txt
+Cpp_threads/CMakeCache.txt
+OpenMP/CMakeCache.txt
+Sequential/CMakeFiles/
+Cpp_threads/CMakeFiles/
+OpenMP/CMakeFiles/
+cmake_install*
+*.swp
+Makefile
